@@ -6,3 +6,4 @@
  * uso do comando git restore
  * comando git pushhh
  * comando git pull
+ * comando git fetch
