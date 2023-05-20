@@ -5,3 +5,4 @@
  ## projeto backend primeiro
  * uso do comando git restore
  * comando git pushhh
+ * comando git pull
